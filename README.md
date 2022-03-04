@@ -6,10 +6,7 @@ First off let’s start the machine up and wait 5 mins.
 
 I always start my enumeration with nmap.
 
-
 as you can see there are 3 ports open
-
-
 
 Let's look which services are they
 
@@ -45,9 +42,7 @@ We got 2 hashes Let's try to crack them
 
 so we have scott's credentials let's login with ssh
 
-
 	USER & ROOT
-
 
 So first things first let's get the user flag.
 
