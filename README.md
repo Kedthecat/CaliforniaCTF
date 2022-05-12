@@ -1,4 +1,4 @@
-Welcome to the writeup for this room!
+Welcome to the writeup for CaliforniaCTF!
 
 First off let’s start the machine up and wait 5 mins.
 	
