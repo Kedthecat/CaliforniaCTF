@@ -1,4 +1,4 @@
-Welcome to the writeup for CaliforniaCTF!
+Welcome to the writeup for CaliforniaCTF that i made!
 
 First off let’s start the machine up and wait 5 mins.
 	
